@@ -8,6 +8,6 @@ Landing Page for a Product
 
 You can check the project here
 
-https://andreiilisei.github.io/Product_Page/
+https://andreiilisei.github.io/CLoth-Landing/
 
 Thank you!!
